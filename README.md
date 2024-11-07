@@ -10,7 +10,7 @@
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="400"/>
 </div>
 
 - 🔭 I’m currently working on [NextGenCollect](https://github.com/andinoferdi/NexGenCollect)
