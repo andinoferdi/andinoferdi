@@ -1,12 +1,15 @@
-<h1 align="center">Hello World 👋, I'm Andino Ferdiansah</h1>
-<h3 align="center">Informatics Student | Web & Framework Enthusiast | Cyber Security Explorer</h3>
+<h1 align="center">>Hello World 👋, I'm Andino Ferdiansah | Informatics Student at UNAIR | Web & Mobile Development Enthusiast</h1>
+<p align="center">
+  Alumni of Software Engineering at SMKN 2 Surabaya, currently building my expertise in Informatics at Universitas Airlangga. With 3-4 years of programming experience, I started early as an intern, learning Vue.js and Laravel, and now expanding into mobile development. Eager to keep exploring new tech and deepen my skills.
+</p>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=andinoferdi&label=Profile%20Views&color=0e75b6&style=flat-square" alt="andinoferdi" />
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="600" />
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" />
 </div>
 
 ---
@@ -28,6 +31,10 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
 </p>
 
 ---
