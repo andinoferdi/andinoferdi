@@ -9,9 +9,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=andinoferdi&theme=onedark" alt="andinoferdi" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="40"/> <strong>About Me:</strong>  
-</p>
+<div align="center">
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="200"/>
+</div>
 
 - 🔭 I’m currently working on [NextGenCollect](https://github.com/andinoferdi/NexGenCollect)
 - 🌱 I’m currently learning **Advanced frameworks like Laravel, Vue.js, and React.js**
@@ -24,9 +24,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/andinoferdi" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="andinoferdi" height="30" width="40" /></a>
-  <a href="https://instagram.com/andinoferdi" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="andinoferdi" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/c/andinoferdi" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="andinoferdi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/andinoferdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andinoferdi" height="30" width="40" /></a>
+<a href="https://instagram.com/andinoferdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="andinoferdi" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@andinoferdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="andinoferdi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -37,7 +37,6 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="react" width="40" height="40"/> </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="mysql" width="40" height="40"/> </a>
-  <!-- Add more icons here -->
 </p>
 
 <h3 align="left">Github Stats:</h3>
