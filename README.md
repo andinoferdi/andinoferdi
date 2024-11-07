@@ -97,6 +97,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=andinoferdi&show_icons=true&theme=radical&count_private=true" alt="Andino's GitHub Stats" />
+  <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=andinoferdi&theme=radical" alt="Current Streak" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=andinoferdi&layout=compact&theme=radical" alt="Total Contributions" />
