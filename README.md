@@ -1,13 +1,13 @@
-<h1 align="center">Hello World 👋, I'm Andino Ferdiansah | Informatics Student at UNAIR | Web & Mobile Development Enthusiast</h1>
-<p align="center">
+<h1>Hello World 👋, I'm Andino Ferdiansah | Informatics Student at UNAIR | Web & Mobile Development Enthusiast</h1>
+<p>
   Alumni of Software Engineering at SMKN 2 Surabaya, currently building my expertise in Informatics at Universitas Airlangga. With 3-4 years of programming experience, I started early as an intern, learning Vue.js and Laravel, and now expanding into mobile development. Eager to keep exploring new tech and deepen my skills.
 </p>
 
-<div align="center">
+<div>
   <img src="https://komarev.com/ghpvc/?username=andinoferdi&label=Profile%20Views&color=0e75b6&style=flat-square" alt="andinoferdi" />
 </div>
 
-<div align="center">
+<div>
   <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="300" />
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" />
 </div>
@@ -28,7 +28,7 @@
 ## 🚀 Everything I know and have learned
 
 ### Frameworks
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
@@ -39,7 +39,7 @@
 </p>
 
 ### Design Tools
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Illustrator" />
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop" />
@@ -48,7 +48,7 @@
 </p>
 
 ### Frontend
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -56,14 +56,14 @@
 </p>
 
 ### Backend
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
 </p>
 
 ### Databases
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/MariaDB-003B57?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
@@ -72,7 +72,7 @@
 </p>
 
 ### Tools
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
@@ -97,12 +97,12 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
+<div>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=andinoferdi&theme=radical" alt="Current Streak" />
 </div>
 
 ### 🛠️ Most Used Languages
 
-<div align="center">
+<div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andinoferdi&layout=compact&theme=radical" alt="Andino's Most Used Languages" />
 </div>
