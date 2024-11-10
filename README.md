@@ -4,7 +4,7 @@
     Alumni of Software Engineering at SMKN 2 Surabaya, currently building my expertise in Informatics at Universitas
     Airlangga. With 3-4 years of programming experience, I started early as an intern, learning Vue.js and Laravel, and
     now expanding into mobile development. Eager to keep exploring new tech and deepen my skills.
-</p>
+</p
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=andinoferdi&label=Profile%20Views&color=0e75b6&style=flat-square"
