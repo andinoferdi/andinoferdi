@@ -135,7 +135,7 @@ mobile technologies.
 ### 📊 GitHub Stats
 
 <div align="center">
-    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=andinoferdi&theme=dark&border_radius=4.6)](https://git.io/streak-stats)
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=andinoferdi&theme=dark&border_radius=4.6" alt="GitHub Streak" />
 </div>
 
 ### 🛠️ Most Used Languages
