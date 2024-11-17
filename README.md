@@ -137,6 +137,10 @@ mobile technologies.
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=andinoferdi&theme=dark&border_radius=4.6" alt="GitHub Streak" />
 </div>
+
+---
+
+
 ### 🛠️ Most Used Languages
 
 <div align="center">
