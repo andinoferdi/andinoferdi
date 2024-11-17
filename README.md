@@ -135,20 +135,8 @@ mobile technologies.
 ### 📊 GitHub Stats
 
 <div align="center">
-    <table>
-        <tr>
-            <td>
-                <img src="https://github-readme-stats.vercel.app/api?username=andinoferdi&show_icons=true&theme=radical"
-                    alt="Andino's GitHub Stats" />
-            </td>
-            <td>
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andinoferdi&layout=compact&theme=radical"
-                    alt="Andino's Most Used Languages" />
-            </td>
-        </tr>
-    </table>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=andinoferdi&theme=dark&border_radius=4.6" alt="GitHub Streak" />
 </div>
-
 ### 🛠️ Most Used Languages
 
 <div align="center">
