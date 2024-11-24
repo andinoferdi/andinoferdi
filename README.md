@@ -1,5 +1,5 @@
 <h1 align="center">Hello World 👋, I'm Andino Ferdiansah | Informatics Student at UNAIR | Web & Mobile Development
-    Enthusiast</h1>
+    Enthusiast</h1
 <p align="center">
     Alumni of Software Engineering at SMKN 2 Surabaya, currently building my expertise in Informatics at Universitas
     Airlangga. With 3-4 years of programming experience, I started early as an intern, learning Vue.js and Laravel, and
