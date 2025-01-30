@@ -20,8 +20,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently working on [NexGenCollect](https://github.com/andinoferdi/NexGenCollect), exploring the latest in web and
-mobile technologies.
+- 🔭 Currently working on some projects
 - 🌱 Learning **advanced frameworks like Laravel, Vue.js, and React.js** to deepen my web development expertise.
 - 👯 Seeking collaboration on **Open-source Laravel Projects** or **Backend Framework Development**.
 - 💬 Ask me about **React, Vue, Laravel, and GSAP**.
