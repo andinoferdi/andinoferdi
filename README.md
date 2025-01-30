@@ -11,8 +11,11 @@
 </div>
 
 <div align="center">
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmx1OWFzZ3BvYnpjeHBvejN6ZXgwb3p5dHdqb21uOGJ4cXNic3JjbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" width="100%" height="300px" style="object-fit: cover;" />
+    <div style="width: 100%; height: 300px; overflow: hidden; display: flex; justify-content: center; align-items: center;">
+        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmx1OWFzZ3BvYnpjeHBvejN6ZXgwb3p5dHdqb21uOGJ4cXNic3JjbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" width="100%" style="position: relative;" />
+    </div>
 </div>
+
 
 
 
