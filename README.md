@@ -1,4 +1,4 @@
-<h1 align="center">Hello World 👋, I'm Andino Ferdiansah | Informatics Student at UNAIR | Web & Mobile Development Enthusiast</h1>
+![image](https://github.com/user-attachments/assets/a1077885-a3a6-4653-bb47-34044b0e0c1e)<h1 align="center">Hello World 👋, I'm Andino Ferdiansah | Informatics Student at UNAIR | Web & Mobile Development Enthusiast</h1>
 <p align="center">
     Alumni of Software Engineering at SMKN 2 Surabaya, currently building my expertise in Informatics at Universitas
     Airlangga. With 3-4 years of programming experience, I started early as an intern, learning Vue.js and Laravel, and
@@ -11,9 +11,9 @@
 </div>
 
 <div align="center">
-    <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="300" />
-    <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="410" />
+    <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250130%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250130T051137Z&X-Amz-Expires=300&X-Amz-Signature=406ff303fb7691943238756c09a6d6f2e34b9ee0095aaf15dac4d69d41a47ff9&X-Amz-SignedHeaders=host" width="100%" />
 </div>
+
 
 ---
 
