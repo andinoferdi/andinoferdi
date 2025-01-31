@@ -20,7 +20,7 @@
 ## 👨‍💻 About Me
 
 - 🔭 Currently working on multiple web & mobile projects.
-- 🌱 Learning **advanced frameworks like Laravel, Vue.js, React.js, and Flutter**.
+- 🌱 Learning **advanced frameworks like Laravel, Vue.js, Next.js, and Flutter**.
 - 👯 Open for collaboration on **Laravel, Next.js, and cross-platform development**.
 - 💬 Ask me about **JavaScript, React, Vue, Laravel, Node.js, and Firebase**.
 - 📫 Reach out via email at **andinoferdiansah@gmail.com**.
