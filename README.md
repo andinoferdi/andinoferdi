@@ -27,7 +27,7 @@
 - 🎸 Fun fact: I'm a fan of rock 'n' roll music from the 60s to the 90s.
 
 <div align="center">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation" />
+    <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/coding.gif" width="400" alt="Coding Animation" />
 </div>
 
 ---
@@ -118,22 +118,13 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/andinoferdi/andinoferdi/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+    <img src="https://github-readme-stats.vercel.app/api?username=andinoferdi&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
 </div>
 
 <br>
 
 <div align="center">
-    <table>
-        <tr>
-            <td width="50%">
-                <img src="https://github-readme-stats.vercel.app/api?username=andinoferdi&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-            </td>
-            <td width="50%">
-                <img src="https://github-readme-streak-stats.herokuapp.com?user=andinoferdi&theme=radical&hide_border=true&border_radius=4.6" alt="GitHub Streak" />
-            </td>
-        </tr>
-    </table>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=andinoferdi&theme=radical&hide_border=true&border_radius=4.6" alt="GitHub Streak" />
 </div>
 
 <br>
@@ -141,6 +132,5 @@
 ### 🛠️ Most Used Languages
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andinoferdi&layout=compact&theme=radical&hide_border=true"
-        alt="Andino's Most Used Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andinoferdi&layout=compact&theme=radical&hide_border=true" alt="Andino's Most Used Languages" />
 </div>
