@@ -1,4 +1,4 @@
-<h1 align="center">Hello World 👋, I'm Andino Ferdiansah | Informatics Student at UNAIR | Web & Mobile Development Enthusiast</h1>
+<h1 align="center">Hello World, I'm Andino Ferdiansah | Informatics Student at UNAIR | Web & Mobile Development Enthusiast</h1>
 <p align="center">
     Alumni of Software Engineering at SMKN 2 Surabaya, currently building my expertise in Informatics at Universitas
     Airlangga. With 3-4 years of programming experience, I started early as an intern, learning Vue.js and Laravel, and
@@ -17,14 +17,14 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 🔭 Currently working on multiple web & mobile projects.
-- 🌱 Learning **advanced frameworks like Laravel, Vue.js, Next.js, and Flutter**.
-- 👯 Open for collaboration on **Laravel, Next.js, and cross-platform development**.
-- 💬 Ask me about **JavaScript, React, Vue, Laravel, Node.js, and Firebase**.
-- 📫 Reach out via email at **andinoferdiansah@gmail.com**.
-- 🎸 Fun fact: I'm a fan of rock 'n' roll music from the 60s to the 90s.
+- Currently working on multiple web & mobile projects.
+- Learning **advanced frameworks like Laravel, Vue.js, Next.js, and Flutter**.
+- Open for collaboration on **Laravel, Next.js, and cross-platform development**.
+- Ask me about **JavaScript, React, Vue, Laravel, Node.js, and Firebase**.
+- Reach out via email at **andinoferdiansah@gmail.com**.
+- Fun fact: I'm a fan of rock 'n' roll music from the 60s to the 90s.
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/coding.gif" width="400" alt="Coding Animation" />
@@ -32,7 +32,7 @@
 
 ---
 
-## 🚀 Everything I know and have learned
+## Everything I know and have learned
 
 ### **Frameworks**
 
@@ -99,7 +99,7 @@
 
 ---
 
-### 🌐 Connect with Me
+### Connect with Me
 
 <p>
     <a href="https://linkedin.com/in/andinoferdi" target="_blank"><img
