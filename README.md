@@ -30,6 +30,14 @@
   />
 </a>
 
+<br />
+<br />
+
+<img
+  src="https://komarev.com/ghpvc/?username=andinoferdi&label=Profile%20Views&color=0e75b6&style=flat-square"
+  alt="Andino Ferdiansah profile views"
+/>
+
 </div>
 
 ---
@@ -114,6 +122,19 @@ These are the technologies and creative tools I have used through coursework, in
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify" />
 </p>
+
+---
+
+## GitHub Activity
+
+<div align="center">
+  
+<img
+  src="https://streak-stats.demolab.com?user=andinoferdi&theme=radical&hide_border=true&border_radius=4.6"
+  alt="Andino's GitHub contribution streak"
+/>
+
+</div>
 
 ---
 
